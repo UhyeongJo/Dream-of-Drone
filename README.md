@@ -105,7 +105,7 @@ pi@drone:~ $ mavproxy.py --master /dev/ttyACM0 --out [routerIP]:5001
 > ✔ **Reverse SSH 원격 접속**
 <br>
 
-💥 [Trouble Shooting](https://brawny-dingo-fe3.notion.site/reverse-SSH-190c3558907c421b8cd49211976d2777)
+💥 [Trouble Shooting](https://uhblog.notion.site/reverse-SSH-190c3558907c421b8cd49211976d2777)
 
 <br>
 
